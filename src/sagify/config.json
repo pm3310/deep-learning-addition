@@ -1,0 +1,5 @@
+{
+  "image_name": "deep-learning-addition-img",
+  "aws_profile": "test-sagemaker",
+  "aws_region": "us-east-1"
+}
